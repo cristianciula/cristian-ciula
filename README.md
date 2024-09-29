@@ -1,4 +1,4 @@
-Hi 👋 My name is Cristian Ciula
+Hello!👋 My name is Cristian Ciula
 ===============================
 
 Software Tester
